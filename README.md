@@ -1,6 +1,6 @@
 # Consultation Frontend
 
-This is a small React UI for testing the consultation backend. It keeps things simple on purpose so you can focus on the API behavior.
+This is a small React UI for testing the consultation backend.
 
 ## Run It Locally
 1. Install dependencies: `npm install`
